@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425685813852",
+    "project_id": "patientcare-64c7c",
+    "storage_bucket": "patientcare-64c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425685813852:android:5dd5cba12a5cfc66f47499",
+        "android_client_info": {
+          "package_name": "com.example.patientcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVchkwM039C1gzgjHUEgq9gEgf_btemM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
